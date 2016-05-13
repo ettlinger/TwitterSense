@@ -5,8 +5,8 @@ Twitter Sense looks at millions of tweets from around the country and uses natur
 
 ## Functionality
 What twitter sense does is:
-1) Use twitter's API to pull tweets from their live stream
-2) Do natural language processing to determine the sentiment, positive or negative, of the tweets
-3) Extract geographic location - state and zipcode - for the geotagged tweets using its longitude and lattitude
-4) Aggregate via mean into state and zipcode which can be uploaded to cartodb
-5) ...and uploaded into an iPython Notebook for generating a few graphs
+* Use twitter's API to pull tweets from their live stream
+* Do natural language processing to determine the sentiment, positive or negative, of the tweets
+* Extract geographic location - state and zipcode - for the geotagged tweets using its longitude and lattitude
+* Aggregate via mean into state and zipcode which can be uploaded to cartodb
+* and uploaded into an iPython Notebook for generating a few graphs
